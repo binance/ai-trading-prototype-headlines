@@ -1,0 +1,4 @@
+.env
+headlines.csv
+__pycache__/
+*.yaml
